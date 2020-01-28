@@ -17,13 +17,13 @@ export class HomePage implements OnInit{
       console.log(token);
       this.token = token;
     });
-    this.fcm.onNotification().subscribe(data => {
-      if(data.wasTapped){
-        console.log("Received in background");
-      } else {
-        console.log("Received in foreground");
-      };
-    });
+    // this.fcm.onNotification().subscribe(data => {
+    //   if(data.wasTapped){
+    //     console.log("Received in background");
+    //   } else {
+    //     console.log("Received in foreground");
+    //   };
+    // });
 
     
   }
