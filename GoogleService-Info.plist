@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>449089752024-3v894haeulsu1s6vje4ib4j0umm7j75v.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.449089752024-3v894haeulsu1s6vje4ib4j0umm7j75v</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAXlQFuvdLM9F1ko49wCuVOFK7BtCr0CHM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>449089752024</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.notify.geet</string>
+	<key>PROJECT_ID</key>
+	<string>notifyme-36bc1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>notifyme-36bc1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:449089752024:ios:8261f55e16d28f9d49c0ad</string>
+	<key>DATABASE_URL</key>
+	<string>https://notifyme-36bc1.firebaseio.com</string>
+</dict>
+</plist>
